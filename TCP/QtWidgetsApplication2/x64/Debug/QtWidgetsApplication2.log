@@ -1,0 +1,8 @@
+﻿  moc Server.h
+  moc Client.h
+  Client.cpp
+  Server.cpp
+  main.cpp
+  moc_Client.cpp
+  moc_Server.cpp
+  QtWidgetsApplication2.vcxproj -> C:\Users\admin\source\repos\TCP\x64\Debug\QtWidgetsApplication2.exe
